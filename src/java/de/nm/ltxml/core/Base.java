@@ -4,6 +4,7 @@ public abstract class Base {
     protected String id;
 
     public Base() {
+        this.id = "??";
     }
 
     public Base(String id) {
