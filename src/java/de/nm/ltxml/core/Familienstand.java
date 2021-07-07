@@ -11,6 +11,6 @@ public class Familienstand extends Bezeichnung {
 
     @Override
     public String toString() {
-        return "Familienstand: id="+this.id+", bezeichnung="+this.bezeichnung+"";
+        return "Familienstand: id="+this.id+", bezeichnung="+this.bezeichnung;
     }
 }

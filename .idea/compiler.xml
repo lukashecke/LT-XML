@@ -4,7 +4,6 @@
     <excludeFromCompile>
       <file url="file://$PROJECT_DIR$/tests/de/nm/ltxml/core/T_07_KreisTest.java" />
       <file url="file://$PROJECT_DIR$/tests/de/nm/ltxml/core/T_06_ParFktTest.java" />
-      <file url="file://$PROJECT_DIR$/tests/de/nm/ltxml/core/T_02_AbgeordneterTest.java" />
       <file url="file://$PROJECT_DIR$/tests/de/nm/ltxml/core/T_12_BayLandtagTest.java" />
       <file url="file://$PROJECT_DIR$/tests/de/nm/ltxml/core/T_09_BayLandtagTest.java" />
       <file url="file://$PROJECT_DIR$/tests/de/nm/ltxml/core/T_16_OrdenAbgTest.java" />

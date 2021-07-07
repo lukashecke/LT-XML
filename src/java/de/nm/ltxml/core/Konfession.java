@@ -11,6 +11,6 @@ public class Konfession extends Bezeichnung {
 
     @Override
     public String toString() {
-        return "Konfession: id="+this.id+", bezeichnung="+this.bezeichnung+"";
+        return "Konfession: id="+this.id+", bezeichnung="+this.bezeichnung;
     }
 }
