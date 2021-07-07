@@ -2,7 +2,6 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <excludeFromCompile>
-      <file url="file://$PROJECT_DIR$/tests/de/nm/ltxml/core/T_01_FamilienstandTest.java" />
       <file url="file://$PROJECT_DIR$/tests/de/nm/ltxml/core/T_07_KreisTest.java" />
       <file url="file://$PROJECT_DIR$/tests/de/nm/ltxml/core/T_06_ParFktTest.java" />
       <file url="file://$PROJECT_DIR$/tests/de/nm/ltxml/core/T_02_AbgeordneterTest.java" />
