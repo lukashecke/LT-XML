@@ -1,6 +1,11 @@
 package de.nm.ltxml.core;
 
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlAttribute;
+
 public abstract class Bezeichnung extends Base {
+    @XmlAttribute(name="bezeichnung")
     protected String bezeichnung;
 
     public Bezeichnung() {

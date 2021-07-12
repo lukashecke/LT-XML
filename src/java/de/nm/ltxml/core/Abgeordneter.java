@@ -1,15 +1,24 @@
 package de.nm.ltxml.core;
 
+import javax.xml.bind.annotation.*;
 import java.util.Date;
 
 public class Abgeordneter extends Base {
+    @XmlAttribute(name="name")
     protected String name;
+    @XmlAttribute(name="vorname")
     protected String vorname;
+    @XmlAttribute(name="titel")
     protected String titel;
+    @XmlAttribute(name="beruf")
     protected String beruf;
+    @XmlAttribute(name="gebam")
     protected Date gebam;
+    @XmlAttribute(name="gebin")
     protected String gebin;
+    @XmlAttribute(name="gesam")
     protected Date gesam;
+    @XmlAttribute(name="gesin")
     protected String gesin;
     protected Konfession konf;
     protected Familienstand fam;
